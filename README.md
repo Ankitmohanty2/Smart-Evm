@@ -1,4 +1,4 @@
-# Install
+# Install these following steps
 
 https://www.python.org/downloads/
 Install Python.
